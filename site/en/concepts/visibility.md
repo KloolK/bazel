@@ -13,7 +13,7 @@ enforce structure as your workspace grows.
 If you need to disable the visibility check (for example when experimenting),
 use `--check_visibility=false`.
 
-For more details on package and subpackages, see
+For more details on packages and subpackages, see
 [Concepts and terminology](/concepts/build-ref).
 
 ## Visibility specifications {:#visibility-specifications}
